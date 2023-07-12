@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Anjra",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-07-10T15:54:45.792Z",
+      "notes": "nadb",
+      "position": {
+        "lat": "35.85343961959182",
+        "lng": "-5.405273437500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Don Benito",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-10T15:55:20.305Z",
+      "notes": "",
+      "position": {
+        "lat": "38.85682013474361",
+        "lng": "-5.910644531250001"
+      },
+      "id": 98443200
+    }
+  ]
+}
